@@ -428,6 +428,81 @@ let ru_2020_f = [
 		pack : RU_2020_F_PACK_1,
 		group : 'Минаева',
 		song : "Фея Драже (2024)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Анна Асти',
+		song : "Космически (2023)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Анна Асти',
+		song : "Ночью на кухне (2022)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Анна Асти',
+		song : "Царица (2023)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Mary Gu',
+		song : "dead inside (2024)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Mary Gu',
+		song : "Ненавижу города (2020)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Mary Gu',
+		song : "Не влюбляйся (2020)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Zivert',
+		song : "ЯТЛ (2021)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Zivert',
+		song : "бери и беги (2023)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Zivert',
+		song : "выживут человеки (2023)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Мари Краймбрери',
+		song : "Океан (2021)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Мари Краймбрери',
+		song : "Мне так повезло (2023)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Мари Краймбрери',
+		song : "Нравится жить (2024)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Полина Гагарина',
+		song : "Танец перед зеркалом (2025)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Полина Гагарина',
+		song : "Бабочки (2022)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Полина Гагарина',
+		song : "На расстоянии (2020)"
 	}
 ];
 
