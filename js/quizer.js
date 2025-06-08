@@ -351,8 +351,88 @@ const RU_2020_F_PACK_1 = 1;
 let ru_2020_f = [
 	{
 		pack : RU_2020_F_PACK_1,
-		group : 'Стас Пьеха',
-		song : "Одна звезда"
+		group : 'Bearwolf',
+		song : "GODZILLA (2024)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Bearwolf',
+		song : "Один в поле воин (2024)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Bearwolf',
+		song : "Валькирия (2024)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'GUMA',
+		song : "Стеклянная (2021)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'GUMA',
+		song : "Гори (2021)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Karna.val',
+		song : "Опять домой (2020)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Karna.val',
+		song : "Психушка (2020)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Karna.val',
+		song : "ЧАСТУШКА (2023)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Клава Кока',
+		song : "Не пишите бывшим (2023)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Клава Кока',
+		song : "Пьяную домой (2020)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Люся Чеботина',
+		song : "ЗА БЫВШЕГО (2021)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Люся Чеботина',
+		song : "МАЛЫШ (2023)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Люся Чеботина',
+		song : "Плакал Голливуд (2022)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Минаева',
+		song : "Шоколадка (2024)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Минаева',
+		song : "Boy (2024)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Минаева',
+		song : "Фея Драже (2024)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Минаева',
+		song : "Фея Драже (2024)"
 	}
 ];
 
