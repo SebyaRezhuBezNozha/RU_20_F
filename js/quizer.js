@@ -446,7 +446,7 @@ let music = [
 		type: 'f',
 		packs: [
 				{
-					arr: en_2020_f_1,
+					arr: ru_2020_f_1,
 					name: 'EN 2020s Female: Pop'
 				}
 			]
