@@ -431,17 +431,17 @@ let ru_2020_f = [
 	},
 	{
 		pack : RU_2020_F_PACK_1,
-		group : 'Анна Асти',
+		group : 'Anna Asti',
 		song : "Космически (2023)"
 	},
 	{
 		pack : RU_2020_F_PACK_1,
-		group : 'Анна Асти',
+		group : 'Anna Asti',
 		song : "Ночью на кухне (2022)"
 	},
 	{
 		pack : RU_2020_F_PACK_1,
-		group : 'Анна Асти',
+		group : 'Anna Asti',
 		song : "Царица (2023)"
 	},
 	{
@@ -503,6 +503,31 @@ let ru_2020_f = [
 		pack : RU_2020_F_PACK_1,
 		group : 'Полина Гагарина',
 		song : "На расстоянии (2020)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'MIA BOYKA',
+		song : "Гагарин (2022)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'MIA BOYKA',
+		song : "СЕРЫЙ ВОЛК (2020)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Монеточка',
+		song : "Кис Кис Кис (2024)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Монеточка',
+		song : "У мамы есть секрет (2024)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Монеточка',
+		song : "Селфхарм (2024)"
 	}
 ];
 
