@@ -343,10 +343,12 @@ function load(){
 // RU songs
 
 const ru_2020_f_icon = [
-	'pop'
+	'pop',
+	'pop_2'
 ];
 
 const RU_2020_F_PACK_1 = 1;
+const RU_2020_F_PACK_2 = 2;
 
 let ru_2020_f = [
 	{
@@ -528,10 +530,81 @@ let ru_2020_f = [
 		pack : RU_2020_F_PACK_1,
 		group : 'Монеточка',
 		song : "Селфхарм (2024)"
+	},
+	{
+		pack : RU_2020_F_PACK_2,
+		group : 'Betsy & Мария Янковская',
+		song : "Сигма Бой (2024)"
+	},
+	{
+		pack : RU_2020_F_PACK_2,
+		group : 'Elvira T',
+		song : "Одержима (2020)"
+	},
+	{
+		pack : RU_2020_F_PACK_2,
+		group : 'Анет Сай',
+		song : "В летних кроссах (2021)"
+	},
+	{
+		pack : RU_2020_F_PACK_2,
+		group : 'Глюкоза',
+		song : "Руки-бёдра (2021)"
+	},
+	{
+		pack : RU_2020_F_PACK_2,
+		group : 'Дора',
+		song : "втюрилась (2020)"
+	},
+	{
+		pack : RU_2020_F_PACK_2,
+		group : 'лилу45',
+		song : "Моя душа (2020)"
+	},
+	{
+		pack : RU_2020_F_PACK_2,
+		group : 'нексюша',
+		song : "Вечная тоска (2024)"
+	},
+	{
+		pack : RU_2020_F_PACK_2,
+		group : 'Ольга Серябкина',
+		song : "Дядя Гена (2022)"
+	},
+	{
+		pack : RU_2020_F_PACK_2,
+		group : 'просто Лера',
+		song : "Светофоры (2023)"
+	},
+	{
+		pack : RU_2020_F_PACK_2,
+		group : 'Стереополина',
+		song : "Я сам не свой (2024)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Ханна',
+		song : "Музыка звучит (2020)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Ханна',
+		song : "Весна (2021)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'Ханна',
+		song : "Море (2022)"
+	},
+	{
+		pack : RU_2020_F_PACK_2,
+		group : 'Мэйби Бэйби',
+		song : "Принцесса Диана (2023)"
 	}
 ];
 
 let ru_2020_f_1 =	ru_2020_f.filter(item => item.pack == 1);
+let ru_2020_f_2 =	ru_2020_f.filter(item => item.pack == 2);
 
 let music = [
 	{
@@ -543,6 +616,10 @@ let music = [
 				{
 					arr: ru_2020_f_1,
 					name: 'EN 2020s Female: Pop'
+				},
+				{
+					arr: ru_2020_f_2,
+					name: 'EN 2020s Female: Pop 2'
 				}
 			]
 	}
