@@ -616,6 +616,11 @@ let ru_2020_f = [
 		pack : RU_2020_F_PACK_2,
 		group : 'Ольга Бузова',
 		song : "Вот она я (2021)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'INSTASAMKA',
+		song : "POPSTAR (2022)"
 	}
 ];
 
