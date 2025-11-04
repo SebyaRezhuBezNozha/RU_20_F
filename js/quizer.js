@@ -621,6 +621,11 @@ let ru_2020_f = [
 		pack : RU_2020_F_PACK_1,
 		group : 'INSTASAMKA',
 		song : "POPSTAR (2022)"
+	},
+	{
+		pack : RU_2020_F_PACK_1,
+		group : 'MIRAVI',
+		song : "Воля (2024)"
 	}
 ];
 
