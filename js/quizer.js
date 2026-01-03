@@ -626,6 +626,11 @@ let ru_2020_f = [
 		pack : RU_2020_F_PACK_1,
 		group : 'MIRAVI',
 		song : "Воля (2024)"
+	},
+	{
+		pack : RU_2020_F_PACK_2,
+		group : 'Ольга Серябкина',
+		song : "Одиночка (2023)"
 	}
 ];
 
