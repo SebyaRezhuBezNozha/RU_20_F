@@ -355,17 +355,20 @@ let ru_2020_f = [
 	{
 		pack : RU_2020_F_PACK_1,
 		group : 'Bearwolf',
-		song : "GODZILLA (2024)"
+		song : "GODZILLA (2024)",
+		ignore : true
 	},
 	{
 		pack : RU_2020_F_PACK_1,
 		group : 'Bearwolf',
-		song : "Один в поле воин (2024)"
+		song : "Один в поле воин (2024)",
+		ignore : true
 	},
 	{
 		pack : RU_2020_F_PACK_1,
 		group : 'Bearwolf',
-		song : "Валькирия (2024)"
+		song : "Валькирия (2024)",
+		ignore : true
 	},
 	{
 		pack : RU_2020_F_PACK_1,
@@ -375,7 +378,8 @@ let ru_2020_f = [
 	{
 		pack : RU_2020_F_PACK_1,
 		group : 'GUMA',
-		song : "Гори (2021)"
+		song : "Гори (2021)",
+		ignore : true
 	},
 	{
 		pack : RU_2020_F_PACK_1,
@@ -425,27 +429,32 @@ let ru_2020_f = [
 	{
 		pack : RU_2020_F_PACK_1,
 		group : 'Минаева',
-		song : "Boy (2024)"
+		song : "Boy (2024)",
+		ignore : true
 	},
 	{
 		pack : RU_2020_F_PACK_1,
 		group : 'Минаева',
-		song : "Фея Драже (2024)"
+		song : "Фея Драже (2024)",
+		ignore : true
 	},
 	{
 		pack : RU_2020_F_PACK_1,
 		group : 'Anna Asti',
-		song : "Космически (2023)"
+		song : "Космически (2023)",
+		ignore : true
 	},
 	{
 		pack : RU_2020_F_PACK_1,
 		group : 'Anna Asti',
-		song : "Ночью на кухне (2022)"
+		song : "Ночью на кухне (2022)",
+		ignore : true
 	},
 	{
 		pack : RU_2020_F_PACK_1,
 		group : 'Anna Asti',
-		song : "Царица (2023)"
+		song : "Царица (2023)",
+		ignore : true
 	},
 	{
 		pack : RU_2020_F_PACK_1,
@@ -465,17 +474,20 @@ let ru_2020_f = [
 	{
 		pack : RU_2020_F_PACK_1,
 		group : 'Zivert',
-		song : "ЯТЛ (2021)"
+		song : "ЯТЛ (2021)",
+		ignore : true
 	},
 	{
 		pack : RU_2020_F_PACK_1,
 		group : 'Zivert',
-		song : "бери и беги (2023)"
+		song : "бери и беги (2023)",
+		ignore : true
 	},
 	{
 		pack : RU_2020_F_PACK_1,
 		group : 'Zivert',
-		song : "выживут человеки (2023)"
+		song : "выживут человеки (2023)",
+		ignore : true
 	},
 	{
 		pack : RU_2020_F_PACK_1,
@@ -520,17 +532,20 @@ let ru_2020_f = [
 	{
 		pack : RU_2020_F_PACK_1,
 		group : 'Монеточка',
-		song : "Кис Кис Кис (2024)"
+		song : "Кис Кис Кис (2024)",
+		ignore : true
 	},
 	{
 		pack : RU_2020_F_PACK_1,
 		group : 'Монеточка',
-		song : "У мамы есть секрет (2024)"
+		song : "У мамы есть секрет (2024)",
+		ignore : true
 	},
 	{
 		pack : RU_2020_F_PACK_1,
 		group : 'Монеточка',
-		song : "Селфхарм (2024)"
+		song : "Селфхарм (2024)",
+		ignore : true
 	},
 	{
 		pack : RU_2020_F_PACK_2,
@@ -550,7 +565,8 @@ let ru_2020_f = [
 	{
 		pack : RU_2020_F_PACK_2,
 		group : 'Глюкоза',
-		song : "Руки-бёдра (2021)"
+		song : "Руки-бёдра (2021)",
+		ignore : true
 	},
 	{
 		pack : RU_2020_F_PACK_2,
@@ -565,7 +581,8 @@ let ru_2020_f = [
 	{
 		pack : RU_2020_F_PACK_2,
 		group : 'нексюша',
-		song : "Вечная тоска (2024)"
+		song : "Вечная тоска (2024)",
+		ignore : true
 	},
 	{
 		pack : RU_2020_F_PACK_2,
