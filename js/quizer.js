@@ -663,6 +663,16 @@ let ru_2020_f = [
 		pack : RU_2020_F_PACK_2,
 		group : 'Mona',
 		song : "Дороже золота (2024)"
+	},
+	{
+		pack : RU_2020_F_PACK_2,
+		group : 'просто Лера',
+		song : "Лютики (2021)"
+	},
+	{
+		pack : RU_2020_F_PACK_2,
+		group : 'нексюша',
+		song : "На твиче (2020)"
 	}
 ];
 
