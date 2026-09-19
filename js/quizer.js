@@ -575,8 +575,8 @@ let ru_2020_f = [
 	},
 	{
 		pack : RU_2020_F_PACK_2,
-		group : 'лилу45',
-		song : "Моя душа (2020)"
+		group : 'Lely45',
+		song : "Моя душа (2022)"
 	},
 	{
 		pack : RU_2020_F_PACK_2,
@@ -648,6 +648,11 @@ let ru_2020_f = [
 		pack : RU_2020_F_PACK_2,
 		group : 'Ольга Серябкина',
 		song : "Одиночка (2023)"
+	},
+	{
+		pack : RU_2020_F_PACK_2,
+		group : 'Lely45',
+		song : "Восемь (2021)"
 	}
 ];
 
