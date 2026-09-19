@@ -653,6 +653,16 @@ let ru_2020_f = [
 		pack : RU_2020_F_PACK_2,
 		group : 'Lely45',
 		song : "Восемь (2021)"
+	},
+	{
+		pack : RU_2020_F_PACK_2,
+		group : 'Mona',
+		song : "Иордан (2024)"
+	},
+	{
+		pack : RU_2020_F_PACK_2,
+		group : 'Mona',
+		song : "Дороже золота (2024)"
 	}
 ];
 
